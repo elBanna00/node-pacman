@@ -1,0 +1,13 @@
+{
+  "name": "tiny-pm-test",
+  "version": "1.0.0",
+  "description": "Test project for tiny-pm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}

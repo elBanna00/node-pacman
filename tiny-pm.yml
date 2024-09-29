@@ -1,0 +1,16 @@
+axios@^0.21.1:
+  version: 0.21.1
+  url: https://registry.npmjs.org/axios/-/axios-0.21.1.tgz
+  shasum: ee8611d128d0c7d8962e5a1a01afbbecf1569ea0
+  dependencies:
+    follow-redirects: ^1.14.1
+follow-redirects@^1.14.1:
+  version: 1.14.9
+  url: https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.9.tgz
+  shasum: 3d2cfca53ca04f0b063db99c7f431f7a4a6e5c65
+  dependencies: {}
+lodash@^4.17.21:
+  version: 4.17.21
+  url: https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz
+  shasum: c6ffb7efab2efeb5222392c22719d72b9a8a3e62
+  dependencies: {}
