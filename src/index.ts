@@ -5,7 +5,7 @@ import install from "./install";
 import list, { PackageJson } from "./list";
 import * as lock from "./lock";
 import * as log from "./log";
-import * as utils from "./cli";
+import * as utils from "./utils";
 
 export default async function (args: yargs.Arguments) {
   // Find and read the `package.json`.
